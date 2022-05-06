@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-	  Welcome to Git-Integration-Module!
+	  Welcome to Git-Integration-Demo
         </h1>
 
         <p className={styles.description}>
